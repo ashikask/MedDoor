@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cff9f416-e49c-41e7-9b50-4a94e4a8fbc1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Databank.db4o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Databank.db4o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Role/HomeCareVolunteerRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/Role/HomeCareVolunteerRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/DiagnosticAdmin.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/DiagnosticAdmin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/DiagnosticAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/DiagnosticAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAdmin.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAdmin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAssistant.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAssistant.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAssistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/LabAssistant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/Pharmacist.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/Pharmacist.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/Pharmacist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/Pharmacist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/PharmacyAdmin.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/PharmacyAdmin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/DiagnosticAdmin/PharmacyAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/DiagnosticAdmin/PharmacyAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/DoctorAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/DoctorAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/DoctorInterface.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/DoctorInterface.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/DoctorInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/DoctorInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/HospitalAdmin.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/HospitalAdmin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/HospitalAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/HospitalAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/StaffAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/StaffAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/StaffInterface.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/StaffInterface.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/HospitalAdmin/StaffInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/HospitalAdmin/StaffInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/InsuranceAdmin/ClaimsRole.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/InsuranceAdmin/ClaimsRole.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/InsuranceAdmin/ClaimsRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/InsuranceAdmin/ClaimsRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/InsuranceAdmin/InsuranceAdmin.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/InsuranceAdmin/InsuranceAdmin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/InsuranceAdmin/InsuranceAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/InsuranceAdmin/InsuranceAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/SystemAdmin/SystemAdmin.form" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/SystemAdmin/SystemAdmin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/SystemAdmin/SystemAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/SystemAdmin/SystemAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/VolunteerAdmin/HomeCareVolunteer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/VolunteerAdmin/HomeCareVolunteer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/VolunteerAdmin/SurveyVolunteer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/VolunteerAdmin/SurveyVolunteer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI/VolunteerAdmin/VolunteerAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UI/VolunteerAdmin/VolunteerAdmin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2ImzlD0mh4CfCZy7pAjFGrI0VtH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ashikakalmady/Desktop/AED_from_main/AED_Final_Project/MedDoor/src/Business"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cff9f416-e49c-41e7-9b50-4a94e4a8fbc1" name="Changes" comment="" />
+      <created>1670801695837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670801695837</updated>
+      <workItem from="1670801697057" duration="1381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
